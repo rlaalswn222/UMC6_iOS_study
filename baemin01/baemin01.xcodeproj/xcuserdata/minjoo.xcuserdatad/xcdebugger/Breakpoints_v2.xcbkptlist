@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94223D3A-5984-4613-A166-C2C96C209F61"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B908AA0-7A1B-4725-B59D-FA194554070E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "baemin01/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5B908AA0-7A1B-4725-B59D-FA194554070E - ec98a589d250320d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "baemin01.ViewController.firstView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "baemin01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minjoo/Desktop/umc6_ios/baemin01/baemin01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5B908AA0-7A1B-4725-B59D-FA194554070E - f4d8f7ddfe50ab99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "baemin01.ViewController.firstView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "baemin01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minjoo/Desktop/umc6_ios/baemin01/baemin01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5B908AA0-7A1B-4725-B59D-FA194554070E - e1ae118b4223595a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "baemin01.ViewController.firstView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "baemin01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minjoo/Desktop/umc6_ios/baemin01/baemin01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "5B908AA0-7A1B-4725-B59D-FA194554070E - ffe69c9ba04c1513"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "baemin01.ViewController.firstView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "baemin01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minjoo/Desktop/umc6_ios/baemin01/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5B908AA0-7A1B-4725-B59D-FA194554070E - 1f9992cc9a900a8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "baemin01.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; baemin01.ViewController"
+                  moduleName = "baemin01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minjoo/Desktop/umc6_ios/baemin01/baemin01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "5B908AA0-7A1B-4725-B59D-FA194554070E - f99d1123cd5b6275"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "baemin01.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;baemin01.ViewController&gt;"
+                  moduleName = "baemin01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minjoo/Desktop/umc6_ios/baemin01/baemin01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C53CBF2-6096-4512-9FD5-8AA1629C2CAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "baemin01/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
